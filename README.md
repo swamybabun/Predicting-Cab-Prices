@@ -5,7 +5,7 @@ Predicting Cab Prices
 
 ### Used libraries
 
-Pandas data frames -> For Loading data sets
+**Pandas data frames** -> For Loading data sets
 
 **Plotly** -> Plotly's Python graphing library makes interactive, publication-quality graphs online. The plots can be zoomed in and out for better observations.
  
